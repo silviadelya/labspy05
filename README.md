@@ -51,9 +51,9 @@ Dictionary sendiri memiliki dua buah komponen inti:
 	```
 ### C. Output
 
-![Gambar 3](screenshoot/lat1-2.png)
+![img] screenshoot/lat1-2.png
 
-![Gambar 4](screenshoot/lat1-3.png)
+![img] screenshoot/
 
 ## Tugas Pratikum 5
 
