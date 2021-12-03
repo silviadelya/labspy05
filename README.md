@@ -53,7 +53,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ![Gambar 3](screenshot/lat1-2.png)
 
-![img] screenshot/lat1-3.png
+![Gambar 4](screenshot/lat1-3.png)
 
 ## Tugas Pratikum 5
 
