@@ -51,7 +51,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
 	```
 ### C. Output
 
-![img] screenshot/lat1-2.png
+![Gambar 3](screenshot/lat1-2.png)
 
 ![img] screenshot/lat1-3.png
 
