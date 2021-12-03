@@ -12,7 +12,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ![Gambar 1](screenshot/lat1.png)
 
-![img] screenshot/
+![img] screenshot/lat1-1.png
 
 ### Penjelasan
 
