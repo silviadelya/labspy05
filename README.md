@@ -10,7 +10,8 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ### Program
 
-![img] screenshot/
+![img] screenshot/lat1.png
+
 ![img] screenshot/
 
 ### Penjelasan
