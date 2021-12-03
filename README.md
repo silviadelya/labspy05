@@ -8,13 +8,13 @@ Dictionary sendiri memiliki dua buah komponen inti:
 1.	**Key** merupakan nama atribut suatu item pada dictionary.
 2.	**Value** adalah nilai yang disimpan pada suatu atribut.
 
-### Program
+### A. Program
 
 ![Gambar 1](screenshot/lat1.png)
 
 ![Gambar 2](screenshot/lat1-1.png)
 
-### Penjelasan
+### B. Penjelasan
 
 1. Membuat dictionary daftar kontak.
 	```python
@@ -49,10 +49,11 @@ Dictionary sendiri memiliki dua buah komponen inti:
 	```python
 	del s['Dina'];
 	```
-### Output
+### C. Output
 
-![img] screenshoot/
-![img] screenshoot/
+![img] screenshoot/lat1-2.png
+
+![img] screenshoot/lat1-3.png
 
 ## Tugas Pratikum 5
 
