@@ -59,7 +59,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ### A. Flowchart
 
-![img] screenshot/07.jpg
+![Gambar 5](screenshot/07.jpg)
 
 ### B. Program
 
