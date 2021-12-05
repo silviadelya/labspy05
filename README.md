@@ -167,7 +167,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ![Gambar 9](screenshot/04.png)
 
-![img] screenshot/05.png
+![Gambar 10](screenshot/05.png)
 
 ![img] screenshot
 
