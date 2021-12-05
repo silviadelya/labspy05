@@ -15,7 +15,7 @@ while True:
         tugas=int(input("Tugas\t: ")) 
         uts=int(input("UTS\t: "))
         uas=int(input("UAS\t: "))
-        akhir=(tugas*30/100)+(uts*35/100)+(uas*35/100)
+        akhir=(int(tugas)*30/100)+(int(uts)*35/100)+(int(uas)*35/100)
         data[nim]=nama, tugas, uts, uas, akhir
         print()
 
