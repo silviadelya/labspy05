@@ -171,4 +171,4 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ![Gambar 11](screenshot/06.png)
 
-#### Sekian Terimakasih
+### Sekian Terimakasih
