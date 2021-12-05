@@ -165,6 +165,6 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ![Gambar 9](screenshot/04.png)
 
-![img] screenshot/
+![img] screenshot/05.png
 
 #### Sekian Terimakasih
