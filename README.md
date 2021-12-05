@@ -59,6 +59,8 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ### A. Flowchart
 
+![img] screenshot/
+
 ### B. Program
 
 ![Gambar 6](screenshot/01.png)
@@ -81,7 +83,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
     a=input("[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar] :")
     print()
 	```
-3. Menambahkan data nim, nama, nilai tugas, uts, dan uas. Data yang diinputkan akan masuk ke dalam dictionary *data* dengan *nim* sebagai keys sedangkan nama, tugas, uts dan uas sebagai *values*.
+3. Menambahkan data nim, nama, nilai tugas, uts, dan uas. Data yang diinputkan akan masuk ke dalam dictionary **data** dengan **nim** sebagai keys sedangkan nama, tugas, uts dan uas sebagai **values**.
 	```python
 	if a=="t" or a=="T":
         print("TAMBAH DATA")
@@ -117,7 +119,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
             print(72*"=")
             print()
 	```
-5. Apabila ingin mengubah data, maka anda akan diminta untuk menginputkan *nim* terlebih dahulu. Setelah itu input data yang ingin diubah.
+5. Apabila ingin mengubah data, maka anda akan diminta untuk menginputkan **nim** terlebih dahulu. Setelah itu input data yang ingin diubah.
 	```python
 	 elif a=="u" or a=="U":
         print("UBAH DATA")
@@ -130,7 +132,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
             uas=int(input("UAS\t: "))
             akhir=(int(tugas)*30/100)+(int(uts)*35/100)+(int(uas)*35/100)
 	```
-6. Jika ingin menghapus data, anda akan diminta untuk menginput *nim*. Lalu data yang telah diinput diawal tadi akan dihapus beserta valuesnya (nama, nilai tugas, nilai uts dan nilai uas).
+6. Jika ingin menghapus data, anda akan diminta untuk menginput **nim**. Lalu data yang telah diinput diawal tadi akan dihapus beserta valuesnya (nama, nilai tugas, nilai uts dan nilai uas).
 	```python
 	elif a=="h" or a=="H":
         print("HAPUS DATA")
@@ -140,7 +142,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
         if data.keys():
             del data[nim]
 	```
-7. Apabila ingin mencari data, anda akan diminta untuk menginput *nim* kemudian data yang anda cari akan muncul berdasarkan nim yang diinput tadi.
+7. Apabila ingin mencari data, anda akan diminta untuk menginput **nim** kemudian data yang anda cari akan muncul berdasarkan nim yang diinput tadi.
 	```python
 	elif a=="c" or a=="C":
         print("CARI DATA")
@@ -155,7 +157,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
             print(72*"=")
             print()
 	```
-8. Jika data sudah selesai diinput, pilih menu *'k'/'K'* maka program akan terhenti.
+8. Jika data sudah selesai diinput, pilih menu **'k'/'K'** maka program akan terhenti.
 	```python
 	elif a=="k" or a=="K":
          break
@@ -165,6 +167,8 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ![Gambar 9](screenshot/04.png)
 
-![Gambar 10](screenshot/05.png)
+![img] screenshot/05.png
+
+![img] screenshot
 
 #### Sekian Terimakasih
