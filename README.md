@@ -65,7 +65,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ![Gambar 7](screenshot/02.png)
 
-![img] screenshot/
+![img] screenshot/03.png
 
 ### C. Penjelasan
 
