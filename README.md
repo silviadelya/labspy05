@@ -163,7 +163,7 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ### D. Output
 
-![img] screenshot/
+![img] screenshot/04.png
 
 ![img] screenshot/
 
