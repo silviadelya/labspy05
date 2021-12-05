@@ -61,9 +61,9 @@ Dictionary sendiri memiliki dua buah komponen inti:
 
 ### B. Program
 
-![img] screenshot/01.png
+![Gambar 6](screenshot/01.png)
 
-![img] screenshot/
+![img] screenshot/02.png
 
 ![img] screenshot/
 
